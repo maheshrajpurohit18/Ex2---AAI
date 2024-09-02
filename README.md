@@ -1,5 +1,5 @@
-<H3>Enter Name: Koti Sai Sankar</H3>
-<H3>Enter Register No: 212222240111</H3>
+<H3>Enter Name: Mahesh Raj Purohit J</H3>
+<H3>Enter Register No: 212222240058</H3>
 <H3>Experiment 2</H3>
 <H3>Date:02-09-2024</H3>
 <h1 align =center>Implementation of Exact Inference Method of Bayesian Network</h1>
